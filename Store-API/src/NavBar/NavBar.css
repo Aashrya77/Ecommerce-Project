@@ -1,0 +1,16 @@
+.heading {
+    background-color: rgb(56, 53, 53);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+  }
+  .heading h1{
+    color: white;
+  }
+  .right{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+  }
